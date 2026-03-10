@@ -1,5 +1,5 @@
 # Math Magician Main File
-  # usage: math operator operand1 operand2
+  # usage: math operand1 operator operand2
 def main():
     print("Welcome to Math Magician!")
 
@@ -7,8 +7,8 @@ def main():
 def main():
     import sys
 
-    op = sys.argv[1]
-    a = float(sys.argv[2])
+    a = float(sys.argv[1])
+    op = sys.argv[2]
     b = float(sys.argv[3])    
 
 
