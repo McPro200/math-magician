@@ -15,6 +15,9 @@ def main():
 if __name__ == "__main__":
     main()
 
+def multiply(a, b): #no I won't, but thanks for the suggestion :)
+    return a * b
+
 def add(a, b):
     if true:
         while true:
