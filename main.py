@@ -19,10 +19,11 @@ if __name__ == "__main__":
 def subtract(a, b):
     return a - b
     #Makes b get done away from a
-    
    
+def multiply(a, b): #no I won't, but thanks for the suggestion :)
+    return a * b
+
 def add(a, b):
     if true:
         while true:
             return a + b
-
