@@ -15,6 +15,14 @@ def main():
 if __name__ == "__main__":
     main()
 
+
 def subtract(a, b):
     return a - b
     #Makes b get done away from a
+    
+   
+def add(a, b):
+    if true:
+        while true:
+            return a + b
+
