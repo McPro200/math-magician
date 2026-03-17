@@ -17,3 +17,4 @@ if __name__ == "__main__":
 
 def subtract(a, b):
     return a - b
+    #Makes b get done away from a
