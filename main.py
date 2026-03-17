@@ -14,3 +14,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def add(a, b):
+    if true:
+        while true:
+            return a + b
